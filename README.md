@@ -1,2 +1,2 @@
-# Soulflight by Team 3
-GitHub Repo for Soulflight, a roguelite about escaping out of the purgatory set up by a mad god!
+## Working Branch
+This branch is for work in progress parts of Soulflight, to avoid any overwriting in the main branch
