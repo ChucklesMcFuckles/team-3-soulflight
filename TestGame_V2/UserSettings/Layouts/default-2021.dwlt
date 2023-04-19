@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1600
     height: 817
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 92
+  controlID: 42
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 60
+  controlID: 43
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 61
+  controlID: 44
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -378,22 +378,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/MonsterModel
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/MonsterModel
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: P:\GitHubGame\team-3-soulflight_ekrebs\TestGame_V2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6570000
-    m_LastClickedID: 22486
-    m_ExpandedIDs: 0000000086570000d657000000ca9a3b
+    scrollPos: {x: 0, y: 20}
+    m_SelectedIDs: f6570000
+    m_LastClickedID: 22518
+    m_ExpandedIDs: 00000000f6570000ba61000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -421,7 +421,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000086570000
+    m_ExpandedIDs: 00000000f6570000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,9 +551,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a407ffff
-      m_LastClickedID: -63580
-      m_ExpandedIDs: 5acaffff1ef9ffff38fbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 187cfdff5a81fdff1ee6fdff52ebfdff7a27feff7444feff8c5efeffd463feff02a5feff92aafeff1006ffff9617ffff70f0ffff38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -836,9 +836,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 59.391068, y: -18.327662, z: -7.172611}
+    m_Target: {x: 170.93555, y: -40.0287, z: -43.593956}
     speed: 2
-    m_Value: {x: 59.391068, y: -18.327662, z: -7.172611}
+    m_Value: {x: 170.93555, y: -40.0287, z: -43.593956}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -885,13 +885,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.10144386, y: 0.7494814, z: -0.11809097, w: 0.6435226}
+    m_Target: {x: -0.0745264, y: -0.765185, z: 0.09028899, w: -0.6335166}
     speed: 2
-    m_Value: {x: 0.101439804, y: 0.74945146, z: -0.118086256, w: 0.64349693}
+    m_Value: {x: -0.076681376, y: -0.76279455, z: 0.09232973, w: -0.63540506}
   m_Size:
-    m_Target: 36.02495
+    m_Target: 109.82939
     speed: 2
-    m_Value: 36.02495
+    m_Value: 109.82939
   m_Ortho:
     m_Target: 0
     speed: 2
