@@ -1,23 +1,16 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class Door : MonoBehaviour, ObjectInteractable
+public class Door : MonoBehaviour, IInteractable
 {
-    private Animator _animator;
-    private bool _isOpen;
-    
-    void Start()
-    {
-        _animator = GetComponent<Animator>();
-    }
+    [SerializeField] private string _prompt;
+    public string InteractionPrompt => _prompt;
 
-    public void Interact()
+    //Change this so the player is sent to a new random room / animation transition
+    public bool Interact(Interactor interactor)
     {
-        _isOpen = true;
-	    _animator.SetTrigger(name:"Open");
-    }
-
-    public bool CanInteract()
-    {
-	    return !_isOpen;
+        Debug.Log(message:"Opening Door");
+        return true;
     }
 }
