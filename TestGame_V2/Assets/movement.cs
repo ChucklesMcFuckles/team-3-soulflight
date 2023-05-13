@@ -9,12 +9,13 @@ public class movement : MonoBehaviour
     private Camera playerCamera;
     public float playerSpeed = 5.0f;
     public float cameraSensitivty = 1.0f;
+
     // Start is called before the first frame update
     void Start()
     {
         controller = gameObject.GetComponent<CharacterController>();
         playerCamera = gameObject.GetComponent<Camera>();
-        
+
         // Locks the cursor to the center of the screen
         Cursor.lockState = CursorLockMode.Locked;
     }
