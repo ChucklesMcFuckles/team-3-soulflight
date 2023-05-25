@@ -1,0 +1,1 @@
+This is just empty folders for you guys to put things into so we have a clean, organized setup for compiling and packaging the game.
