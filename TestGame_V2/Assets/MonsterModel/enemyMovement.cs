@@ -39,16 +39,6 @@ public class enemyMovement : MonoBehaviour
         if(!playerInAttackRange && !playerInSightRange) Patroling();
         else if(playerInSightRange && !playerInAttackRange) ChasePlayer();
         else if(playerInSightRange && playerInAttackRange) AttackPlayer();
-
-        /*transform.LookAt(player);
-
-        agent.SetDestination(player.transform.position);
-
-        if (Vector3.Distance(transform.position, player.position) < enemyDistance)
-        {
-	    //Reaches the player
-            gameObject.GetComponent<NavMeshAgent>().velocity = Vector3.zero;
-        }*/
     }
 
     private void Patroling()

@@ -40,7 +40,7 @@ public class WeaponStatController : MonoBehaviour
         AudioSource ac = GetComponent<AudioSource>();
         ac.PlayOneShot(swordAttackSound);
 
-        //For weapon to do damage, add a collider to it. Make sure it's set to "Is Trigger"
+        //For weapon to do damage, add a collider to it. Make sure it's set to "Is Trigger" --> This is what's causing the object to fall through the map
         //and feel free to adjust the box for reach of the weapon.
         //Enemies should have a box collider component on them for hit box. They also will need a RigidBody component.
         //Enemies to be affected by weapons should have the "Enemy" tag set to them on Unity.

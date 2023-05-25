@@ -5,7 +5,7 @@ using UnityEngine;
 public class WeaponCollisionDetection : MonoBehaviour
 {
     //This will go onto the weapon object
-    //wc will be the object that holds the weapon, and the particle is what ever particle effect you want
+    //wp will be the object that holds the weapon, and the particle is what ever particle effect you want
     //The particles that spawn never go away in the hierarchy, so maybe delete them after a short period of coming out?
     public WeaponStatController wp;
     public GameObject hitParticle;
