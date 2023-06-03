@@ -7,7 +7,10 @@ public class WeaponPickup : MonoBehaviour
     public Transform equipPosition;
     public float distance = 10f;
     GameObject currentWeapon;
-    GameObject wp;
+
+    //wp was set to static to help fix the issue of the weapons previously dropped staying with player in new scenes.
+    //Though this fix is not very effective as those objects will continue to exist and slow down the game.
+    static GameObject wp;
 
     private bool canGrab;
 

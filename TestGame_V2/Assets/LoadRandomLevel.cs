@@ -16,6 +16,6 @@ public class LoadRandomLevel : MonoBehaviour
     {
         //Make this the number of scenes you want to load + 1 (Cause it will never touch the max)
         levelGenerate = Random.Range(1,4);
-        SceneManager.LoadScene(levelGenerate);
+        SceneManager.LoadScene(levelGenerate, LoadSceneMode.Single);
     }
 }
