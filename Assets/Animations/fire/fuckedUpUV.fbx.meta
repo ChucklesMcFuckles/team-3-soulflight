@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 798fe5405ead3fe4b9fe0a2186f73f66
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame1__PBR_Alpha
+    second: {fileID: 2800000, guid: b4ec2b6cdef1041468a4db0d220ce993, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame1__PBR_Diffuse
+    second: {fileID: 2800000, guid: 46086a67a9036ec4da8d5a9f268d9f87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame1__PBR_Emission
+    second: {fileID: 2800000, guid: 0dbed2110f680794796361dcfa9edf82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame1__PBR_Specular
+    second: {fileID: 2800000, guid: 0998c8e1f1eab62459bdad142d02aba2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame2__PBR_Alpha
+    second: {fileID: 2800000, guid: 3a701f3ed3edff9479b37912bfc83dd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame2__PBR_Diffuse
+    second: {fileID: 2800000, guid: 9e8aa73b8379a024baca656fb3809dcb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame2__PBR_Emission
+    second: {fileID: 2800000, guid: cc7e4ffef2400ec458343921d935a1aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame2__PBR_Specular
+    second: {fileID: 2800000, guid: fe07930d30f8ea1418e28bd89bbf25a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame3__PBR_Alpha
+    second: {fileID: 2800000, guid: b3b6df2bda63a894d9cf19ca46b90ac2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame3__PBR_Diffuse
+    second: {fileID: 2800000, guid: 6d5d737585225d34fb57faa48f7b4740, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame3__PBR_Emission
+    second: {fileID: 2800000, guid: c8a48aebef0914e43a3d6c6edaef0e68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame3__PBR_Specular
+    second: {fileID: 2800000, guid: c081f4b4b26df53458f716f44f372d1e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame4__PBR_Alpha
+    second: {fileID: 2800000, guid: a62343eb543cf7640b45d5020857f72d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame4__PBR_Diffuse
+    second: {fileID: 2800000, guid: 7b8d63a713315f6458f22cf11eeddef5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame4__PBR_Emission
+    second: {fileID: 2800000, guid: 913c2fe0a04f6394b9be184107d8965f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame4__PBR_Specular
+    second: {fileID: 2800000, guid: ce8274ee2d1e6b24ba5c4174efac6ff6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame5__PBR_Alpha
+    second: {fileID: 2800000, guid: d51a247202decaa45b0bf09e86495b04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame5__PBR_Diffuse
+    second: {fileID: 2800000, guid: 6079f57fdcc0970459afd4c77f434a90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame5__PBR_Emission
+    second: {fileID: 2800000, guid: cd5cdb7a1eb306d49b9236956421e406, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame5__PBR_Specular
+    second: {fileID: 2800000, guid: fbc5a8ea1bd04b145b2adfa5448fb1f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame6__PBR_Alpha
+    second: {fileID: 2800000, guid: 8679e10c72ba36a4581ab56a0ba76a06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame6__PBR_Diffuse
+    second: {fileID: 2800000, guid: 979ce24ee694bbe45b496ed97bf8baa2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame6__PBR_Emission
+    second: {fileID: 2800000, guid: 1504d44e566dec94b967e4ecd4741a8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fireFrame6__PBR_Specular
+    second: {fileID: 2800000, guid: e25cf2bb94881d64b84a8f15c90c4b46, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
