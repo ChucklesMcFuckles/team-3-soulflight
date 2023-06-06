@@ -26,13 +26,13 @@ public class spawnZone : MonoBehaviour
         for (int i = 0; i < spawnAmount; i++)
         {
             // spawn position relative to the center of the game object
-            Vector3 spawnPosition = new Vector3(Random.Range((-transform.localScale.x - spawnRadius), (transform.localScale.x+spawnRadius)), 1.5f, Random.Range((-transform.localScale.z-spawnRadius), (transform.localScale.z+spawnRadius)));
+            Vector3 spawnPosition = new Vector3(Random.Range((-transform.localScale.x - spawnRadius), (transform.localScale.x+spawnRadius)), (1f+(i * 0.5f)), Random.Range((-transform.localScale.z-spawnRadius), (transform.localScale.z+spawnRadius)));
             
             // randomNum
             int randomNum = Random.Range(0, spawnObjects.Length);
 
             // spawn random object slightly with random rotation
-            Instantiate(spawnObjects[randomNum], center + spawnPosition, Quaternion.Euler(0, Random.Range(0, 360), 0));
+            Instantiate(spawnObjects[randomNum], center + spawnPosition, Quaternion.identity);
         }
     }
 }
